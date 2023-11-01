@@ -1,6 +1,6 @@
 ### Hi I'm Sylas
 
-I'm Fullstack software engineer who works @Calastone that works with:
+I'm Fullstack software engineer @Calastone and I work with:
 - .NET,
 - React,
 - Typescript,
